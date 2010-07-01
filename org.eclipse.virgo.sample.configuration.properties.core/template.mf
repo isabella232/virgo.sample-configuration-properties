@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bundle-Name: Configuration Sample Content Bundle
+Bundle-Name: (incubation) Configuration Sample Content Bundle
 Bundle-Description: Configuration Sample Content Provider
 Bundle-ManifestVersion: 2
 Bundle-SymbolicName: org.eclipse.virgo.sample.configuration.properties.core
