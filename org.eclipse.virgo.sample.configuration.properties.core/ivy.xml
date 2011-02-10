@@ -23,7 +23,7 @@
 
 		<!-- === PROVIDED-RUNTIME =========================================== -->
 		<dependency org="org.eclipse.osgi" name="org.eclipse.osgi" rev="${org.eclipse.osgi}" conf="provided->runtime"/>
-		<dependency org="org.apache.felix" name="org.apache.felix.configadmin" rev="${org.apache.felix}" conf="provided->runtime"/>
+		<dependency org="org.eclipse.osgi" name="org.eclipse.equinox.cm" rev="${org.eclipse.equinox.cm}" conf='provided->runtime'/>
 		<dependency org="org.springframework" name="org.springframework.core" rev="${org.springframework}" conf="provided->runtime"/>
 		<dependency org="org.springframework" name="org.springframework.context" rev="${org.springframework}" conf="provided->runtime"/>
 		<dependency org="org.springframework" name="org.springframework.beans" rev="${org.springframework}" conf="provided->runtime"/>
